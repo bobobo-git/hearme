@@ -1,5 +1,6 @@
-1. cuckoo
-2. noise
-3. stuff
+[link](https://bobobo-git.github.io/hearme)
 
-i'm deaf
+# bobobo
+> <small>noises & stuff</small>
+
+1. [Dance of the cuckoo (after Marvin Hatley, 1929)](music/dance of the cuckoo.mp3)
