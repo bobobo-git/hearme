@@ -1,5 +1,6 @@
 [link](https://bobobo-git.github.io/hearme)
 
-[Dance of the cuckoo (Marvin Hatley, 1929)](music/dance of the cookoo.mp3)
+[Dance of the cuckoo (Marvin Hatley, 1929)](hearme/music/dance of the cookoo.mp3)
+
 
 
