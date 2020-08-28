@@ -2,7 +2,7 @@
 some music 
 
 [hear1](https://raw.githubusercontent.com/bobobo-git/hearme/master/music/cuckoo.webm)  
-[hear1m](https://raw.githubusercontent.com/bobobo-git/hearme/master/music/cuckoo.)  
+[hear1m](https://raw.githubusercontent.com/bobobo-git/hearme/master/music/cuckoo.mp3)  
 
 [hear2](https://raw.githubusercontent.com/bobobo-git/hearme/master/music/dance%20of%20the%20cuckoo.webm)    
 [hear2m](https://raw.githubusercontent.com/bobobo-git/hearme/master/music/dance%20of%20the%20cuckoo.mp3)    
